@@ -1,3 +1,28 @@
+/*
+ * nps_range.h - Simple and Flexible Range Iterator for C++
+ *
+ * Contact: Cihan Bilgihan
+ * Email: cihanbilgihan@gmail.com
+ * GitHub: https://github.com/tynes0
+ *
+ * License: 
+ * This project is licensed under the MIT License. 
+ * 
+ * The MIT License is a permissive free software license that allows for 
+ * the reuse of the software within proprietary software, provided 
+ * that all copies include the original copyright notice and license. 
+ * 
+ * This license permits:
+ * - Commercial use
+ * - Modification
+ * - Distribution
+ * - Private use
+ *
+ * The software is provided "as is", without warranty of any kind. 
+ * The authors are not liable for any damages arising from the use 
+ * of this software. (There will be no damage...)
+ */
+
 #pragma once
 #ifndef _NPS_RANGE_
 #define _NPS_RANGE_
