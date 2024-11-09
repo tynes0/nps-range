@@ -14,6 +14,7 @@ nps::range is a lightweight, header-only library that brings Python-style range 
     - [circular_range class](#circular_range-class)
     - [patterned_range class](#patterned_range-class)
 4. [Assert Handling](#assert-handling)
+5. [License](#license)
 
 ## Installation
 To include this library in your project, add the nps_range.h file to your project and start by including it:
@@ -171,7 +172,7 @@ You can define and use your own assert to handle conditions. This assertion chec
 #endif //  !defined(_NPS_ASSERT)
 ```
 
-**License**  
+### **License**  
 `nps::range` is licensed under the MIT License, which allows for broad usage in both personal and commercial projects. 
 
 Developed by [**tynes0**](https://github.com/tynes0). 
